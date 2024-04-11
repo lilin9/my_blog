@@ -1,0 +1,13 @@
+myBlog_java/.idea/
+myBlog_java/logs/
+myBlog_java/out/
+myBlog_java/*/.idea/
+myBlog_java/*/target/
+myBlog_java/*/logs/
+myBlog_java/*/out/
+myBlog_java/*/*/test/
+
+myBlog_web/.idea/
+myBlog_web/*/node_modules/
+node_modules/*/dist/
+node_modules/*/build/
